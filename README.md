@@ -308,24 +308,6 @@ Para probar el funcionamiento:
 
 ---
 
-# 📸 Capturas
-
-Agregar aquí las capturas del proyecto.
-
-```text
-Login
-
-[ Captura ]
-```
-
-```text
-Chat
-
-[ Captura ]
-```
-
----
-
 # 📚 Conceptos de Arquitectura aplicados
 
 - Arquitectura Cliente-Servidor.
